@@ -1,0 +1,26 @@
+.Section-1{
+    display: flex;
+}
+.introdution{
+    font-size: large;
+    width: 50%;
+    padding-left: 10px;
+}
+.text-color{
+    color: brown;
+    font-size: large;
+    
+}
+#hire{
+    text-decoration: none;
+    background-color: cadetblue;
+    padding: 15px 50px;
+    border-radius: 15px;
+}
+.introdution img{
+    padding-left: 25px;
+    padding-right: 10px;
+}
+.text-color-2{
+    color: darkblue;
+}
