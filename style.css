@@ -9,7 +9,6 @@
 .text-color{
     color: brown;
     font-size: large;
-    
 }
 #hire{
     text-decoration: none;
@@ -23,4 +22,27 @@
 }
 .text-color-2{
     color: darkblue;
+}
+.section-2{
+    display: flex;
+}
+.half-widht{
+    width: 50%;
+    padding-top: 25px;
+    padding-bottom: 140px;
+    padding-left: 25px;
+    padding-right: 20px;
+}
+.half-widht img{
+    width: 100%;
+    padding-left: 2px;
+    padding-right: 20px; 
+}
+.dream-section{
+    font-size: large;
+    width: 50%;
+    padding-left: 10px;
+}
+#head{
+    color: brown;
 }
